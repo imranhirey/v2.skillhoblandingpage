@@ -26,9 +26,7 @@ feature:
   - name: "Robust Skill Verification"
     icon: "/images/speedometer.svg"
     content: "Skillhob verifies the skills and qualifications of professionals, ensuring high-quality talent for companies"
-  - name: "Cloud Support"
-    icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+ 
 
 # services
 services:

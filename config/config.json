@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "SKILLHOB ltd",
+    "title": "SKILLHOB - Empowering Skills, Connecting Opportunities",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "48",
-    "logo_text": "Bigspring Light"
+    "logo_text": "Skillhob"
   },
 
   "settings": {
@@ -28,8 +28,9 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "imran nur hirey",
     "meta_image": "",
-    "meta_description": "A SAAS template for nextjs"
+    "meta_description": "Skillhob is a platform that connects skilled people with opportunities.We are a team of young and passionate people who believe in the power of skills.We are here to empower skills and connect opportunities."
+    
   }
 }
