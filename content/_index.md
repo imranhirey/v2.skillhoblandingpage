@@ -26,7 +26,9 @@ feature:
   - name: "Robust Skill Verification"
     icon: "/images/speedometer.svg"
     content: "Skillhob verifies the skills and qualifications of professionals, ensuring high-quality talent for companies"
- 
+  - name: "Secure and Reliable"
+    icon: "/images/cloud.svg"
+    content: "Skillhob is a secure and reliable platform, utilizing the latest technology to protect user data and information"
 
 # services
 services:
