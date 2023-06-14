@@ -19,6 +19,10 @@
     {
       "name": "FAQ",
       "url": "/faq"
+    },
+    {
+      "name":"Caraers",
+      "url":"/careers"
     }
   ],
   "footer": [
@@ -49,6 +53,10 @@
         {
           "text": "Pricing",
           "url": "/pricing"
+        },
+        {
+          "text": "Careers",
+          "url": "/careers"
         }
       ]
     },
