@@ -26,6 +26,8 @@ const RegularPages = ({ data }) => {
         <NotFound data={data} />
       ) : layout === "contact" ? (
         <Contact data={data} />
+      ) : layout === "blogs" ? (
+        <Contact data={data} />
       ) : layout === "pricing" ? (
         <Pricing data={data} />
       ) : layout === "faq" ? (
