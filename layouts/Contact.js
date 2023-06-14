@@ -2,6 +2,8 @@ import config from "@config/config.json";
 import { markdownify } from "@lib/utils/textConverter";
 import { useState } from "react";
 import ReCAPTCHA from "react-google-recaptcha";
+import { ToastContainer, toast } from "react-toastify";
+import 'react-toastify/dist/ReactToastify.css';
 
 
 const Contact = ({ data }) => {
@@ -24,8 +26,8 @@ const Contact = ({ data }) => {
  const submitForm = (e) => {
     e.preventDefault();
  if (!captchasolved){
-    alert("Please solve captcha");
-    return;
+   toast.error("Please solve the captcha");
+  return;
  }
 
  else{
@@ -36,26 +38,26 @@ const Contact = ({ data }) => {
     message.subject === "" ||
     message.message === ""
   ) {
-    alert("Please fill all fields");
+   toast.error("Please fill all the fields");
     return;
   }
   // check if email is valid
   if (!message.email.includes("@")) {
-    alert("Please enter a valid email");
+   toast.error("Please enter a valid email");
     return;
   }
   // check if subject is valid
   if (message.subject.length < 3) {
-    alert("Please enter a valid subject");
-    return;
+    toast.error("Please enter a valid subject");
+      return;
   }
   // check if message is valid
   if (message.message.length < 10) {
-    alert("Please enter a valid message");
-    return;
+    toast.error("Please enter a valid message");
+      return;
   }
   // send message
-  alert("Message sent successfully");
+  toast.success("Message sent successfully");
   // reset form
   setMessage({
     name: "",
@@ -67,6 +69,10 @@ const Contact = ({ data }) => {
   setCaptchasolved(false);
   // reset recaptcha
   window.grecaptcha.reset();
+  // reset form
+  document.querySelector(".contact-form").reset();
+  // reset form
+  document.querySelector(".contact-form").reset();
  }
  }
   return (
@@ -125,16 +131,31 @@ const Contact = ({ data }) => {
               onChange={(e)=>{
                 setCaptchasolved(true);
               }}
+              onExpired={()=>{
+                setCaptchasolved(false);
+              }}
                sitekey="6LeNmJkmAAAAAA3PZ5pryapWHY5dY9iop2PA8EFw" />
 
               </div>
+              <ToastContainer
+              position="bottom-left"
+              autoClose={5000}
+              hideProgressBar={true}
+              newestOnTop={true}
+              closeOnClick={true}
+              rtl={false}
+              pauseOnFocusLoss={false}
+              
+             />
               <button
               onClick={submitForm}
                type="submit" className="btn btn-primary">
                 Send Now
               </button>
             </form>
+           
           </div>
+          
           <div className="content col-12 md:col-6 lg:col-5">
             {markdownify(info.title, "h4")}
             {markdownify(info.description, "p", "mt-4")}
