@@ -1,5 +1,6 @@
 import config from "@config/config.json";
 import { markdownify } from "@lib/utils/textConverter";
+import axios from "axios";
 import { useState } from "react";
 import ReCAPTCHA from "react-google-recaptcha";
 import { ToastContainer, toast } from "react-toastify";
@@ -57,23 +58,40 @@ const Contact = ({ data }) => {
       return;
   }
   // send message
-  toast.success("Message sent successfully");
+  axios.post("https://apiv2.skillhob.com/contactus",{
+    name: message.name,
+    email: message.email,
+    title: message.subject,
+    message: message.message,
+  })
+  .then((res)=>{
+    /**
+     * {
+    "message": "Email sent successfully"
+}
+     */
+    if (res.data.message === "Email sent successfully"){
+      toast.success("Email sent successfully");
+      setMessage({
+        name: "",
+        email: "",
+        subject: "",
+        message: "",
+      });
+    }
+    else{
+      toast.error("Something went wrong");
+    }
+  })
+  .catch((err)=>{
+    toast.error("Something went wrong");
+    
+  })
+  
   // reset form
-  setMessage({
-    name: "",
-    email: "",
-    subject: "",
-    message: "",
-  });
-  // reset captcha
-  setCaptchasolved(false);
-  // reset recaptcha
-  window.grecaptcha.reset();
+  
   // reset form
-  document.querySelector(".contact-form").reset();
-  // reset form
-  document.querySelector(".contact-form").reset();
- }
+  } 
  }
   return (
     <section className="section">
