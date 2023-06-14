@@ -72,6 +72,7 @@ const Contact = ({ data }) => {
      */
     if (res.data.message === "Email sent successfully"){
       toast.success("Email sent successfully");
+       e.target.reset();
       setMessage({
         name: "",
         email: "",
