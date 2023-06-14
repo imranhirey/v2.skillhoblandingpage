@@ -2,20 +2,9 @@
 title: Pricing
 layout: pricing
 draft: false
+
 plans:
-- title: Free Plan
-  subtitle: Ideal for Individuals
-  price: Free
-  type: forever
-  features:
-    - Search and connect with companies.
-    - Respond to companies' requests.
-    - Network with skilled individuals.
-    - Ticket-based support.
-    - Stay updated with news and trends.
-  button:
-    label: Signup Now
-    link: "/contact"
+
 
 - title: Standard Plan
   subtitle: Ideal for Recruiters
@@ -30,6 +19,20 @@ plans:
     - 30 days money back guarantee.
   button:
     label: Start 2-week free trial
+    link: "/contact"
+- title: Free Plan
+  subtitle: Ideal for Individuals
+  price: Free
+  type: forever
+  recommended: true
+  features:
+    - Search and connect with companies.
+    - Respond to companies' requests.
+    - Network with skilled individuals.
+    - Ticket-based support.
+    - Stay updated with news and trends.
+  button:
+    label: Signup Now
     link: "/contact"
 
 - title: Premium Plan

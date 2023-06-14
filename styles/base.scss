@@ -1,6 +1,9 @@
 html {
   @apply text-base;
 }
+.g-recaptcha-badge {
+  visibility: hidden;
+}
 
 body {
   @apply bg-body font-primary font-normal leading-relaxed text-text;
