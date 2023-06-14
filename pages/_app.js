@@ -52,11 +52,7 @@ const App = ({ Component, pageProps }) => {
           name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=5"
         />
-<<<<<<< HEAD
               <meta property="og:image" content="/images/IMG-20230613-WA0131.jpg" />
-
-          <meta property="og:image" content="/images/IMG-20230613-WA0131.jpg" />
->>>>>>> 404de0074d3184f84544116ccce9dcd34bab04a8
       </Head>
       <Component {...pageProps} />
     </>
