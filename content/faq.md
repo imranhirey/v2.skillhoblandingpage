@@ -3,46 +3,43 @@ title: Frequently Asked Questions
 layout: faq
 draft: false
 faqs:
-- title: Will updates also be free?
-  answer: Updates for our software are free for a specific duration, usually for the first year. After that, you may need to purchase a maintenance plan to continue receiving updates.
+- title: What courses do you offer for young teenagers?
+  answer: Skillhob offers a wide range of courses specifically designed for young teenagers. Our courses cover programming languages, web development, mobile app development, game development, and more.
 
-- title: Discounts for students and Non-Profit Organizations?
-  answer: Yes, we offer special discounts for students and Non-Profit Organizations. Please reach out to our support team with proof of eligibility to avail of the discount.
+- title: How can I enroll my teenager in a course?
+  answer: Enrolling your teenager in a course is easy. Simply visit our website and browse through the available courses. Once you find a course of interest, click on the enrollment button and follow the instructions to complete the registration process.
 
-- title: I need something unique. Can you make it?
-  answer: Absolutely! We specialize in creating custom solutions tailored to our clients' unique needs. Get in touch with us, and our team will work closely with you to bring your vision to life.
+- title: What is the duration of the courses?
+  answer: The duration of our courses for young teenagers varies depending on the specific program. Most courses have a duration of 4 to 8 weeks, allowing teenagers to learn and develop their skills in a structured timeframe.
 
-- title: Is there any documentation and support?
-  answer: Yes, we provide comprehensive documentation to guide you through our products and services. Additionally, our support team is available to assist you with any questions or issues you may encounter.
+- title: Are the courses suitable for beginners?
+  answer: Yes, our courses are designed to cater to beginners with no prior programming experience. Our experienced instructors provide step-by-step guidance and support to ensure a smooth learning journey for young teenagers.
 
-- title: Any refunds?
-  answer: We offer a refund policy within a specified timeframe. Please refer to our refund policy page for detailed information on eligibility and the refund process.
+- title: Will my teenager receive a certificate upon course completion?
+  answer: Yes, upon successful completion of a course, your teenager will receive a certificate of achievement. This certificate validates their skills and serves as a valuable addition to their portfolio.
 
-- title: What is a product key?
-  answer: A product key is a unique alphanumeric code that is used to activate and unlock the full functionality of our software. It is usually provided upon purchase and is necessary for product registration.
+- title: How can I track my teenager's progress during the course?
+  answer: We provide parents with access to a parent portal where you can track your teenager's progress, view their assignments, and communicate with the instructors. This allows you to stay involved and informed throughout their learning journey.
 
-- title: Are updates included in the pricing?
-  answer: Yes, updates are included in all our pricing plans. You will have access to the latest features and improvements as long as your subscription is active.
+- title: What resources and materials will my teenager have access to?
+  answer: Your teenager will have access to comprehensive learning materials, including video tutorials, coding exercises, project samples, and additional resources to enhance their learning experience.
 
-- title: Do you offer a money-back guarantee?
-  answer: Yes, we offer a 30-day money-back guarantee. If you are not satisfied with our service, you can request a refund within 30 days of your purchase.
+- title: Are there any prerequisites for the courses?
+  answer: Our courses for young teenagers are designed to be beginner-friendly, and no prior coding experience is required. However, for certain advanced courses, a basic understanding of programming concepts may be beneficial.
 
-- title: Can I upgrade or downgrade my plan?
-  answer: Absolutely! You can upgrade or downgrade your plan at any time. Simply contact our support team, and they will assist you with the necessary changes.
+- title: Are there any age restrictions for enrollment?
+  answer: Our courses are specifically tailored for young teenagers, typically between the ages of 13 and 17. However, we may consider enrolling students slightly outside this age range on a case-by-case basis.
 
-- title: Is there a limit on the number of users in a team?
-  answer: No, there is no limit on the number of users in a team. You can add as many team members as you need, and each member will have their own access and permissions.
+- title: What support is available for my teenager during the course?
+  answer: Our instructors provide dedicated support and guidance to young teenagers throughout the course. They are available to answer questions, provide clarification, and offer assistance whenever needed.
 
-- title: How secure is my data?
-  answer: We take data security very seriously. Our platform utilizes advanced encryption and follows industry best practices to ensure the safety and confidentiality of your data.
+- title: Can my teenager switch to a different course if they change their interests?
+  answer: Yes, we understand that teenagers' interests may evolve over time. If your teenager wishes to switch to a different course, we will accommodate their request and help them transition to a course that aligns with their new interests.
 
-- title: What payment methods do you accept?
-  answer: We accept various payment methods, including credit cards, PayPal, and bank transfers. You can choose the most convenient option during the checkout process.
+- title: Are there any group activities or collaborative projects?
+  answer: Yes, we encourage collaboration and teamwork among young teenagers. Throughout the courses, there are group activities and collaborative projects where students can work together, learn from each other, and develop their teamwork skills.
 
-- title: Is customer support available 24/7?
-  answer: Yes, our customer support team is available 24/7 to assist you with any questions or issues you may have. You can reach out to us via email, live chat, or phone.
-
-- title: Can I cancel my subscription at any time?
-  answer: Yes, you can cancel your subscription at any time. There are no long-term contracts or commitments. Simply notify us, and we will guide you through the cancellation process.
+- title: What measures do you take to ensure a safe learning environment?
+  answer: We prioritize the safety and security of our students. All our instructors undergo a thorough background check, and we maintain a secure online learning platform. We also have strict guidelines and monitoring systems in place to promote a safe and positive learning environment.
 
 ---

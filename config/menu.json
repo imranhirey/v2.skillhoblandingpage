@@ -9,7 +9,7 @@
       "url": "/blogs"
     },
     {
-      "name": "Pricing",
+      "name": "Plans & Pricing",
       "url": "/pricing"
     },
     {
@@ -30,7 +30,7 @@
       "name": "Company",
       "menu": [
         {
-          "text": "Pricing",
+          "text": "Plans & Pricing",
           "url": "/pricing"
         },
         {

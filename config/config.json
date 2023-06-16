@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "SKILLHOB - Empowering Skills, Connecting Opportunities",
+    "title": "Skillhob - Empowering the Next Generation of Tech Innovators",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
@@ -17,20 +17,20 @@
 
   "nav_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Call Me",
     "link": "/contact"
   },
 
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Skillhob - Empowering Skills, Connecting Opportunities"
+    "footer_content": "Skillhob - Empowering the Next Generation of Tech Innovators"
   },
 
   "metadata": {
     "meta_author": "imran nur hirey",
     "meta_image": "",
-    "meta_description": "Skillhob is a platform that connects skilled people with opportunities.We are a team of young and passionate people who believe in the power of skills.We are here to empower skills and connect opportunities."
+    "meta_description": "Skillhob is a leading Software Training Institute dedicated to empowering young teenagers with the skills and knowledge needed to excel in the world of technology and AI."
     
   }
 }

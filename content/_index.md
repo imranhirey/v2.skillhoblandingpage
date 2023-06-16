@@ -1,7 +1,7 @@
 ---
 banner:
-  title: Bridging the Gap Between Talent and Opportunity 
-  content: The Ultimate Platform for Talent Acquisition and Career Growth
+  title: Empowering Young Teenagers for the World of Technology and AI
+  content: Skillhob is a leading software training institute that offers comprehensive training programs for young teenagers
   image: /images/banner-art.svg
   button:
     label: "Contact Us"
@@ -11,29 +11,29 @@ banner:
 feature: 
   title: Something You Need To Know
   features:
-  - name: "Advanced Job Matching"
+  - name: "Comprehensive Training Programs"
     icon: "/images/code.svg"
-    content: "Skillhob utilizes advanced algorithms to match skilled professionals with the right job opportunities. Our intelligent matching system analyzes skills, experience, and preferences to connect candidates with their ideal positions."
-  - name: "Seamless Networking"
+    content: "Skillhob offers comprehensive training programs designed to equip young teenagers with the skills and knowledge necessary to thrive in the world of technology and AI. Our courses are carefully curated to provide accessible and engaging learning experiences, ensuring that your child is well-prepared for a successful future.  "
+  - name: "Seamless Learning Community"
     icon: "/images/oop.svg"
-    content: "Skillhob provides a seamless networking experience for recruiters, skilled professionals, and companies. Our platform allows users to connect, collaborate, and build meaningful professional relationships, fostering a vibrant and supportive community"
-  - name: "24h Service"
+    content: "At Skillhob, we foster a seamless learning community where students can connect with like-minded individuals, collaborate on projects, and build meaningful relationships within the tech industry. By becoming part of Skillhob's community, your child will have the opportunity to grow and excel alongside fellow aspiring technologists.  "
+  - name: "24/7 Support"
     icon: "/images/user-clock.svg"
-    content: "Skillhob provides round-the-clock support to assist users with any inquiries, technical issues, or concerns they may have. Our dedicated support team is available 24 hours a day, 7 days a week, ensuring a smooth and uninterrupted experience for all users"
-  - name: "Value for Money"
+    content: "We understand the importance of continuous support for our students. That's why our dedicated support team is available 24/7 to assist your child with any inquiries, technical issues, or concerns they may encounter. Rest assured, we're here to ensure a smooth and uninterrupted learning journey for all our students"
+  - name: "Value for Investment"
     icon: "/images/love.svg"
-    content: " Skillhob offers cost-effective solutions for both recruiters and skilled professionals. We aim to provide excellent value for money by delivering high-quality services and features at competitive pricing"
-  - name: "Robust Skill Verification"
+    content: "Skillhob Software Training Institute strives to deliver exceptional value for your investment. Our courses are competitively priced, offering high-quality training and cutting-edge features that will propel your child's career in the technology field.  "
+  - name: "Validated Skills and Achievements"
     icon: "/images/speedometer.svg"
-    content: "Skillhob verifies the skills and qualifications of professionals, ensuring high-quality talent for companies"
-  - name: "Secure and Reliable"
+    content: "Skillhob recognizes and validates the skills and accomplishments of our students. Upon successful completion of our training programs, your child will receive industry-recognized certifications, ensuring that their talents are respected and valued in the professional world"
+  - name: "Secure and Reliable Learning Environment"
     icon: "/images/cloud.svg"
-    content: "Skillhob is a secure and reliable platform, utilizing the latest technology to protect user data and information"
+    content: "At Skillhob, we prioritize the security and privacy of our students. Our platform employs state-of-the-art technology to ensure a secure learning environment, safeguarding their data and providing peace of mind.  "
 
 # services
 services:
-  - title: "Revolutionary Job Matching"
-    content: "Skillhob offers the most advanced job matching platform, connecting skilled professionals with the right job opportunities. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Revolutionary Learning Experience"
+    content: "Skillhob, a leading software training institute, is dedicated to empowering young teenagers through comprehensive training programs. We offer a wide range of courses designed to equip them with the skills and knowledge necessary to excel in the world of technology and AI. Our courses are carefully curated to provide accessible and engaging learning experiences, ensuring that your child is well-prepared for a successful future. "
     images:
       - "/images/shutterstock_1808087533-scaled-1.jpg"
  
@@ -42,34 +42,7 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "Verified Skill Assurance"
-    content: "Skillhob ensures the highest quality talent for companies by verifying the skills and qualifications of professionals. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images: 
-      - "/images/Master.jpg"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-  
-  - title: "24/7 Support"
-    content: "Skillhob provides round-the-clock support, ensuring that recruiters and skilled professionals have assistance whenever they need it. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/Untitled.png"
  
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-  - title: "Value for Money"
-    content: "Skillhob provides cost-effective solutions for recruiters and skilled professionals, maximizing the value of their investment. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/value.jpeg"
-      
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
 
 # workflow
 workflow: 
@@ -80,7 +53,7 @@ workflow:
 # call_to_action
 call_to_action:
   title: Ready to Get Started?
-  content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content: "Take the first step towards your success by joining Skillhob Software Training Institute "
   image: '/images/cta.svg'
   button:
     enable: true

@@ -1,0 +1,154 @@
+[33mcommit 711840e47247afe761afd4bc05ac361eac08574b[m[33m ([m[1;36mHEAD -> [m[1;32mproduction[m[33m, [m[1;31morigin/production[m[33m)[m
+Merge: 2530d65 41b56a7
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Thu Jun 15 13:54:04 2023 +0100
+
+    pricing updated
+
+[33mcommit 2530d656baa1e8dfb003d8288f31d0467c4971a4[m
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Thu Jun 15 13:53:15 2023 +0100
+
+    pricing updated
+
+[33mcommit 41b56a7aae17022c54f279af61f911f5132beb97[m
+Author: Imran Nur Hirey <95400512+imranhirey@users.noreply.github.com>
+Date:   Wed Jun 14 19:30:02 2023 +0100
+
+    Update Contact.js
+
+[33mcommit a8b89506893680d62cd65a6b727a171cb559e58d[m
+Author: Imran Nur Hirey <95400512+imranhirey@users.noreply.github.com>
+Date:   Wed Jun 14 19:16:37 2023 +0100
+
+    Update README.md
+
+[33mcommit bbca5de47739fd0dfcb6a0398c3cdc2dc41948e5[m
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Wed Jun 14 19:14:43 2023 +0100
+
+    email added
+
+[33mcommit d3b0f8491a97793e7db3e44029fbf093155a8cd0[m
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Wed Jun 14 18:30:53 2023 +0100
+
+    updated 34
+
+[33mcommit 021a562eccec57c802202097cd76a0b1b4bd93c2[m
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Wed Jun 14 18:26:24 2023 +0100
+
+    updated 33
+
+[33mcommit 6f61b3f062e218e68b3da3db1710dc390343d711[m
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Wed Jun 14 18:17:11 2023 +0100
+
+    updated 32
+
+[33mcommit 4fa86d2c323970e36dfe8023f6c28c6bf6f8cd8b[m
+Author: Imran Nur Hirey <95400512+imranhirey@users.noreply.github.com>
+Date:   Wed Jun 14 17:05:47 2023 +0100
+
+    Update sitemap.xml
+
+[33mcommit cc25ab9811be2f0025d515612f446f864bbd40ee[m
+Merge: cb6dee2 ba2850d
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Wed Jun 14 17:01:30 2023 +0100
+
+    Merge branch 'production' of https://github.com/imranhirey/v2.skillhoblandingpage into production
+
+[33mcommit cb6dee202f8ce7b5b24f6e3dabeb1c3d96463d70[m
+Merge: e4abc07 5544daf
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Wed Jun 14 17:01:05 2023 +0100
+
+    carears adde3d
+
+[33mcommit ba2850d2860c2cc3263cdb84c0dcc0149c0633b1[m
+Author: Imran Nur Hirey <95400512+imranhirey@users.noreply.github.com>
+Date:   Wed Jun 14 16:53:06 2023 +0100
+
+    Update _app.js
+
+[33mcommit e4abc0729219e3db24716ec08eca580e62a9f1e2[m
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Wed Jun 14 16:50:55 2023 +0100
+
+    carears adde2d
+
+[33mcommit 5544daf32ab9faf3f2e2c7eb5020ff637a08e088[m
+Author: Imran Nur Hirey <95400512+imranhirey@users.noreply.github.com>
+Date:   Wed Jun 14 16:49:22 2023 +0100
+
+    Update _app.js
+
+[33mcommit de40ea1dca71e92a60b7b96790f16851f34c68e6[m
+Merge: c40d41a 404de00
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Wed Jun 14 16:44:17 2023 +0100
+
+    carears added
+
+[33mcommit c40d41ab80930ae82bbca5924256097cd7536d9d[m
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Wed Jun 14 16:42:44 2023 +0100
+
+    carears added
+
+[33mcommit 404de0074d3184f84544116ccce9dcd34bab04a8[m
+Author: Imran Nur Hirey <95400512+imranhirey@users.noreply.github.com>
+Date:   Wed Jun 14 00:39:24 2023 +0100
+
+    Update _app.js
+
+[33mcommit 44c2436bf12233ed38561b38c32190c887115342[m
+Author: Imran Nur Hirey <95400512+imranhirey@users.noreply.github.com>
+Date:   Tue Jun 13 21:52:30 2023 +0100
+
+    Add files via upload
+
+[33mcommit 5b96a7fb7df2df5d328628427f9509a18d9598ca[m
+Author: Imran Nur Hirey <95400512+imranhirey@users.noreply.github.com>
+Date:   Tue Jun 13 21:42:36 2023 +0100
+
+    Add files via upload
+
+[33mcommit 2222a2c4c6d055d87615d316b95d3827935985f9[m
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Tue Jun 13 21:17:15 2023 +0100
+
+    commited by imranhirey 4
+
+[33mcommit 473a5a42e52ebb6c4dea4fe5b04897eadbf6c195[m
+Merge: 1a3fcc4 140138b
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Tue Jun 13 21:14:23 2023 +0100
+
+    Merge branch 'production' of https://github.com/imranhirey/v2.skillhoblandingpage into production
+
+[33mcommit 1a3fcc4cfc2d56bd134b0321dc9b746da3f9ffaa[m
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Tue Jun 13 21:13:41 2023 +0100
+
+    commited by imranhirey 3
+
+[33mcommit 140138be2185ad0e4cab06404165b73be3148fbe[m
+Author: Imran Nur Hirey <95400512+imranhirey@users.noreply.github.com>
+Date:   Tue Jun 13 21:12:01 2023 +0100
+
+    Update social.json
+
+[33mcommit 7099b41d9f994f251f5b67b43657607cd1fdabdb[m
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Tue Jun 13 21:08:09 2023 +0100
+
+    commited by imranhirey 2
+
+[33mcommit c4d5e4b6259fe587bef97d8dd4f79e3d7c652197[m
+Author: imranhirey <imrannurhirey@gmail.com>
+Date:   Tue Jun 13 20:31:29 2023 +0100
+
+    commited by imranhirey
