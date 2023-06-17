@@ -31,9 +31,7 @@ const RegularPages = ({ data }) => {
       ) 
       : layout === "courseregstrations" ? (
         <CourseRegstration data={data} />
-      ) : layout === "courses" ? (
-        <Courses data={data} />
-      ) : layout === "pricing" ? (
+      )  : layout === "pricing" ? (
         <Pricing data={data} />
       ) : layout === "faq" ? (
         <Faq data={data} />
