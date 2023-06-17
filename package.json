@@ -18,7 +18,6 @@
     "@mui/icons-material": "^5.11.16",
     "@mui/material": "^5.13.5",
     "@mui/styled-engine-sc": "^5.12.0",
-    "@mui/styles": "^5.13.2",
     "axios": "^1.4.0",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
