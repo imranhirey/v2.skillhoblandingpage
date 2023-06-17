@@ -80,7 +80,7 @@ const Courses = () => {
                 variant="outlined"
                 onClick={() => route.push(`/courses/${course.id}`)}
              > 
-              Check it out Now
+              Check it out 
              </Button>
               
             </Card>
