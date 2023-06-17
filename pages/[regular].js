@@ -2,6 +2,7 @@ import NotFound from "@layouts/404";
 import Base from "@layouts/Baseof";
 import Carears from "@layouts/Carears";
 import Contact from "@layouts/Contact";
+import CourseRegstration from "@layouts/CourseRegstration";
 import Courses from "@layouts/Courses";
 import Default from "@layouts/Default";
 import Faq from "@layouts/Faq";
@@ -27,10 +28,11 @@ const RegularPages = ({ data }) => {
         <NotFound data={data} />
       ) : layout === "contact" ? (
         <Contact data={data} />
+      ) 
+      : layout === "courseregstrations" ? (
+        <CourseRegstration data={data} />
       ) : layout === "courses" ? (
         <Courses data={data} />
-      ) : layout === "blogs" ? (
-        <Contact data={data} />
       ) : layout === "pricing" ? (
         <Pricing data={data} />
       ) : layout === "faq" ? (
