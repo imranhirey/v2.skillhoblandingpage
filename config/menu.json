@@ -5,33 +5,36 @@
       "url": "/"
     },
     {
+      "name": "Courses",
+      "url": "/courses"
+    },
+    {
       "name": "Blog",
       "url": "/blogs"
     },
-    {
-      "name": "Plans & Pricing",
-      "url": "/pricing"
-    },
+  
     {
       "name": "Contact",
       "url": "/contact"
     },
-    {
-      "name": "FAQ",
-      "url": "/faq"
-    },
+  
     {
       "name":"Caraers",
       "url":"/careers"
+    },
+    {
+      "name": "Login ",
+      "url": "/faq"
     }
+   
   ],
   "footer": [
     {
       "name": "Company",
       "menu": [
         {
-          "text": "Plans & Pricing",
-          "url": "/pricing"
+          "text": "Courses",
+          "url": "/courses"
         },
         {
           "text": "Quick Start",
@@ -57,6 +60,10 @@
         {
           "text": "Careers",
           "url": "/careers"
+        },
+        {
+          "text": "Courses",
+          "url": "/courses"
         }
       ]
     },
