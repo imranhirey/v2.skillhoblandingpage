@@ -3,7 +3,6 @@ import Base from "@layouts/Baseof";
 import Carears from "@layouts/Carears";
 import Contact from "@layouts/Contact";
 import CourseRegstration from "@layouts/CourseRegstration";
-import Courses from "@layouts/Courses";
 import Default from "@layouts/Default";
 import Faq from "@layouts/Faq";
 import Pricing from "@layouts/Pricing";
