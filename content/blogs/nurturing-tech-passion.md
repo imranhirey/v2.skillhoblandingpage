@@ -1,7 +1,7 @@
 ---
 title: "Nurturing Children's Tech Passion: Balancing Support and Boundaries"
 description: "Discover how parents can effectively nurture their children's passion for technology while maintaining a healthy balance. Explore strategies for supporting their interests, setting boundaries, promoting holistic development, and fostering a positive relationship with technology. Empower your child's tech journey while ensuring their overall well-being and growth."
-image: "/images/Nurturing Children's Tech Passion.jpg"
+image: "/images/techinchildren.jpg"
 date: 2023-06-18T05:00:00Z
 draft: false
 ---
