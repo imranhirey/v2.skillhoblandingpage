@@ -27,4 +27,4 @@ While technology offers numerous opportunities, it's important to balance virtua
 ## Conclusion
 Nurturing your child's passion for technology requires finding the right balance between support and boundaries. By embracing their interests, setting healthy guidelines, promoting holistic development, and fostering a positive relationship with technology, you can empower them on their tech journey while ensuring their overall growth and well-being. Together, let's help our children navigate the digital world and make the most of its vast opportunities.
 
-- Imran Nur Hirey - Sofwtare Engineer / Somalia 
+- Imran Nur Hirey - Founder and CEO of Skillhob
