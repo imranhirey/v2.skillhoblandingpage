@@ -1,4 +1,5 @@
 import NotFound from "@layouts/404";
+import About from "@layouts/About";
 import Base from "@layouts/Baseof";
 import Carears from "@layouts/Carears";
 import Contact from "@layouts/Contact";
@@ -28,14 +29,15 @@ const RegularPages = ({ data }) => {
       ) : layout === "contact" ? (
         <Contact data={data} />
       ) 
+      : layout === "about" ? (
+        <About data={data} />
+      ) 
       : layout === "courseregstrations" ? (
         <CourseRegstration data={data} />
       )  : layout === "pricing" ? (
         <Pricing data={data} />
       ) : layout === "faq" ? (
         <Faq data={data} />
-      ) : layout === "carears" ? (
-        <Carears data={data} />
       ) : (
         <Default data={data} />
       )}
