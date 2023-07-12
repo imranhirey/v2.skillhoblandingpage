@@ -5,7 +5,7 @@ draft: false
 keywords: "Skillhob, frequently asked questions, courses, enrollment, duration, beginners, certificate, progress tracking, resources, prerequisites, age restrictions, support, course switch, group activities, learning environment"
 faqs:
 - title: Where is Skillhob located?
-  answer: Skillhob is located in the heart of London, UK. Our physical address is [insert address here]. However, please note that we also offer online courses to cater to a wider audience.
+  answer: Skillhob is located in the heart of London, UK. Our physical address is in london. However, please note that we also offer online courses to cater to a wider audience.
 
 - title: What courses do you offer for adults?
   answer: Skillhob offers a range of courses for adults, including software development, web development, data science, cybersecurity, and more. Visit our website for a complete list of courses.
