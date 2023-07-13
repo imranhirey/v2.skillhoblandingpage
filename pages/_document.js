@@ -7,6 +7,8 @@ const Document = () => {
   return (
     <Html lang="en">
       <Head>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3177943149627187"
+     crossorigin="anonymous"></script>
         {/* favicon */}
         <link
           rel="shortcut icon"
