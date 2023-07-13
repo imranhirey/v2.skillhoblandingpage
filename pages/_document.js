@@ -7,12 +7,11 @@ const Document = () => {
   return (
     <Html lang="en">
     
-<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-13XTZBBF9X"></script>
 <script>
   window.dataLayer = window.dataLayer || []
   function gtag(){dataLayer.push(arguments)}
-  gtag('js', new Date());
+  gtag('js', new Date())
 
   gtag('config', 'G-13XTZBBF9X')
 </script>
