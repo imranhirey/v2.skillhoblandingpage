@@ -6,16 +6,6 @@ const Document = () => {
   const { favicon } = config.site;
   return (
     <Html lang="en">
-    
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-13XTZBBF9X"></script>
-<script>
-  window.dataLayer = window.dataLayer || []
-  function gtag(){dataLayer.push(arguments)}
-  gtag('js', new Date())
-
-  gtag('config', 'G-13XTZBBF9X')
-</script>
-
       <Head>
         {/* favicon */}
         <link
@@ -37,6 +27,22 @@ const Document = () => {
           media="(prefers-color-scheme: dark)"
           content="#000"
         />
+
+        {/* Google Analytics */}
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-13XTZBBF9X"
+        ></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-13XTZBBF9X');
+            `,
+          }}
+        ></script>
       </Head>
       <body>
         <Main />
